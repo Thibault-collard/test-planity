@@ -1,0 +1,11 @@
+.calendar{
+	position: absolute;
+	list-style-type: none;
+}
+.container{
+	margin-bottom: 30px;
+}
+.grid{
+	position: absolute;
+	margin-left : 50px;
+}
